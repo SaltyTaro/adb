@@ -20,7 +20,7 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
-structure.txt
+structure1.txt
 # Virtual environments
 venv/
 env/
